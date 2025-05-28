@@ -1,0 +1,36 @@
+body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #dddddd;
+      padding: 40px;
+      background-image: url("https://images.pexels.com/photos/7233128/pexels-photo-7233128.jpeg?auto=compress&cs=tinysrgb&w=600") ;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    .choices button {
+      font-size: 20px;
+      padding: 10px 20px;
+      margin: 10px;
+      cursor: pointer;
+      border: none;
+      border-radius: 8px;
+      background-color: #007bff;
+      color: white;
+      transition: background 0.3s;
+    }
+
+    .choices button:hover {
+      background-color: #000000;
+    }
+
+    .result p {
+      font-size: 18px;
+      margin: 10px 0;
+    }
+
+    .result {
+      margin-top: 20px;
+    }
