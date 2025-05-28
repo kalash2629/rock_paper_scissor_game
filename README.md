@@ -1,23 +1,25 @@
 📖 What is this game?
 
+
 Rock Paper Scissor is a popular hand game. The rules are:
 
-Rock beats Scissor
+* Rock beats Scissor
 
-Scissor beats Paper
+* Scissor beats Paper
 
-Paper beats Rock
+* Paper beats Rock
 
 In this version, we will type our choice, and the computer will randomly pick one. Then, the game will tell you who won.
 
+
 🎮 How to Play
 
-Run the game on your computer (instructions below).
+* Run the game on your computer (instructions below).
 
-Choose one of the options: rock, paper, or scissor.
+* Choose one of the options: rock, paper, or scissor.
 
-The computer will also choose one.
+* The computer will also choose one.
 
-The game will show who wins.
+* The game will show who wins.
 
-Play again if you want!
+* Play again if you want!
